@@ -1,3 +1,3 @@
 # golang-zip
 
-Docker image of jessie with curl and zip installed.
+Docker image of golang environment with zip installed.
